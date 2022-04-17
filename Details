@@ -1,0 +1,24 @@
+
+
+Recap: Not More Than 10mins
+Overflow:
+Mesurements:
+abs unit: inch, px, pt, pc
+relative units: %, rem - root em, em - empheral Unit,  vh - view-port height, vw - view-port width
+
+fonts, icon:
+  Fonts: Google Fonts / any font CSS from online linked in the html page
+  icon: font-awesome 4.7 link in the html page and use i tag with css to create icons
+
+Topics:
+
+  RWD - Responsive Web Design
+  Mobile First Approach - Keeping Mobile Screen in mind while developing
+
+  Media Queries modify CSS based on resolution ( width of the screen )
+
+  display: flex / Flex box concept ---> Get control over the layout of the children
+
+  Bootstrap CSS Usage
+
+  Bootstrap Breakpoints, Containers
